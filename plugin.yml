@@ -1,0 +1,5 @@
+name: SilktouchSpawners
+main: dev.jalla.silktouchspawners.SilktouchSpawners
+version: 1.0
+api-version: 1.13
+commands:

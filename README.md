@@ -1,2 +1,3 @@
 # SilktouchSpawners
-Bukkit API plugin that lets players mine mob spawners using silk touch tools.
+
+Bukkit API plugin that gives you mob spawners when you destroy them with Silk Touch.
